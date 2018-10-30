@@ -42,7 +42,7 @@ var questions = [{
     image: "assets/images/sister.gif"
 },{
 	question: "	From which areas of space can there be no escape?",
-	answers: ["Black holes", "Milky Way", "Orbit Rush", "Star gaze"],
+	answers: ["Black Holes", "Milky Way", "Orbit Rush", "Star gaze"],
     correctAnswer: "Black Holes",
     image: "assets/images/blackhole.gif"
 },{
