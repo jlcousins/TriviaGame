@@ -47,7 +47,7 @@ var questions = [{
     image: "assets/images/blackhole.gif"
 },{
 	question: "How old is the sun?",
-	answers: ["8 billin years old", "5 billion years old", "11 billion years old", "4 billion years old"],
+	answers: ["8 billion years old", "5 billion years old", "11 billion years old", "4 billion years old"],
     correctAnswer: "5 billion years old",
     image: "assets/images/old.gif"
 },
