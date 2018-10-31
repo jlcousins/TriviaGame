@@ -31,7 +31,7 @@ var questions = [{
     correctAnswer: "Sputnik",
     image: "assets/images/sputnik.gif"
 },{
-	question: " Which is the first planet in the solar system from the sun?",
+	question: "Which is the first planet in the solar system from the sun?",
 	answers: ["Venus", "Jupiter", "Saturn", "Mercury"],
     correctAnswer: "Mercury",
     image: "assets/images/mercury.gif"
@@ -41,7 +41,7 @@ var questions = [{
     correctAnswer: "Venus",
     image: "assets/images/sister.gif"
 },{
-	question: "	From which areas of space can there be no escape?",
+	question: "From which areas of space can there be no escape?",
 	answers: ["Black Holes", "Milky Way", "Orbit Rush", "Star Gaze"],
     correctAnswer: "Black Holes",
     image: "assets/images/blackhole.gif"
